@@ -8,5 +8,5 @@ This program renames all ZIP files in the working directory to the version of th
  * [pywin32](http://sourceforge.net/projects/pywin32/)
 
 ## Instructions
- 1. Open command prmopt to folder containing XYplorer no-install archives.
+ 1. Open command prompt to a folder containing XYplorer no-install archives.
  2. Run `python .\path\to\XYAR.py`
